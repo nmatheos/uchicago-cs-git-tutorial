@@ -1,2 +1,3 @@
 Hello, world!
 UChicago CS Git Tutorial.
+Git is EXTREMELY cool!
